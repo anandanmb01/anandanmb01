@@ -18,7 +18,7 @@
 <br>
 
 <h2>Github stats</h2>
-<img width="40%" height="300px" align=left src="https://github-readme-stats.vercel.app/api?username=anandanmb01&show_icons=true&count_private=true&theme=dark" alt=""/>
+<img width="40%" height="300px" align=left src="https://github-readme-stats.vercel.app/api?username=anandanmb01&show_icons=true&count_private=true" alt=""/>
 <img width="40%" height="300px" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandanmb01&layout=compact" alt="" />
 <p align=left width="40%" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanmb01&" alt="anandanmb01" /></p>
 
