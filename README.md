@@ -25,9 +25,8 @@
 <h2>Pinned Repo</h2>   
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandanmb01&repo=eternity_vpn&show_owner=true)](https://github.com/anandanmb01/eternity_vpn/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandanmb01&repo=eternityvpn_win_client&show_owner=true)]([https://github.com/anandanmb01/eternity_vpn/](https://github.com/anandanmb01/eternityvpn_win_client))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandanmb01&repo=sudoku-solver&show_owner=true)](https://github.com/anandanmb01/sudoku-solver)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mbanandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbanandan" height="30" width="40" /></a>
