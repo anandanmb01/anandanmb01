@@ -15,7 +15,7 @@
   - 🔭 **Current Role**: Freelance Developer specializing in backend systems.  
   - 🌱 **Learning Focus**: Backend optimization, Go (Golang), DevOps, and advanced cloud infrastructure.  
   - 💬 **Ask Me About**: APIs, VPN architecture, AI chat systems, Golang projects, and scalable backend solutions.  
-  - 📧 **Reach Me At**: [anandan.nitcalicut@gmail.com](mailto:anandan.nitcalicut@gmail.com).  
+  - 📧 **Reach Me At**: [anandan.nitcalicut@gmail.com](mailto:anandanmb.work@gmail.com).  
 
   ---
 
