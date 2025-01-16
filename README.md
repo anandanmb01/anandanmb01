@@ -1,38 +1,87 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=anandanmb01&label=Profile%20views&color=0e75b6&style=flat" alt="anandanmb01" /> </p>
-<h1 align="center">Hi 👋, I'm Anandan MB</h1>
-<h3 align="center">A passionate Software developer | Full stack developer</h3>
-<p></p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=anandanmb01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<br/>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandanmb01&label=Profile%20views&color=0e75b6&style=flat" alt="anandqan" /> </p> -->
+  <h1 align="center">Hi 👋, I'm Anandan MB</h1>
+  <h3 align="center">Backend Developer | AI & VPN Systems | Scalable Solutions</h3>
 
-- 🔭 I’m currently working as **Freelance Developer**
+  <p align="center">  
+  🚀 Passionate about building efficient, scalable, and secure backend systems with expertise in VPN protocols, AI-powered chat applications, and advanced infrastructure solutions.  
+  </p>
 
-- 🌱 I’m currently learning **DevOps**
+  ---
 
-- 💬 Ask me about **Django , MEARN**
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 📫 How to reach me **anandan.nitcalicut@gmail.com**
-<br>
-<br>
+  ### 🌟 **About Me**
+  - 🔭 **Current Role**: Freelance Developer specializing in backend systems.  
+  - 🌱 **Learning Focus**: Backend optimization, Go (Golang), DevOps, and advanced cloud infrastructure.  
+  - 💬 **Ask Me About**: APIs, VPN architecture, AI chat systems, Golang projects, and scalable backend solutions.  
+  - 📧 **Reach Me At**: [anandan.nitcalicut@gmail.com](mailto:anandan.nitcalicut@gmail.com).  
 
-<h2>Github stats</h2>
-<img width="40%" height="300px" align=left src="https://github-readme-stats.vercel.app/api?username=anandanmb01&show_icons=true&count_private=true" alt=""/>
-<img width="40%" height="300px" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandanmb01&layout=compact" alt="" />
-<p align=left width="40%" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandanmb01&" alt="anandanmb01" /></p>
+  ---
 
-<h2>Pinned Repo</h2>   
+  ### ⚡ **Languages & Tools**
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> 
+  </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandanmb01&repo=eternity_vpn&show_owner=true)](https://github.com/anandanmb01/eternity_vpn/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandanmb01&repo=eternityvpn_win_client&show_owner=true)]([https://github.com/anandanmb01/eternity_vpn/](https://github.com/anandanmb01/eternityvpn_win_client))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anandanmb01&repo=sudoku-solver&show_owner=true)](https://github.com/anandanmb01/sudoku-solver)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mbanandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbanandan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anandan-mb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandan-mb" height="30" width="40" /></a>
-<a href="https://instagram.com/anandan_mb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anandan_mb" height="30" width="40" /></a>
-</p>
+  ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+  ### 🔧 **Key Projects**
+
+  #### **1. Eternity VPN**  
+  - Designed and deployed a high-performance SoftEther VPN server supporting multiple protocols (OpenVPN, L2TP/IPSec, MS-SSTP).  
+  - Integrated a web client with ExpressJS and ReactJS for seamless user interaction.  
+  - Optimized performance with advanced bandwidth management and SSH-based administration.  
+
+  #### **2. GTA-5 Fivem Gaming Server**  
+  - Hosted on AWS with MariaDB, secured via IPTables, and optimized for cost with virtual RAM.  
+  - Developed robust server administration with SSH tunneling and SFTP.  
+
+  #### **3. ROS-Controlled Drone**  
+  - Built a drone with STM32 microcontroller and ROS libraries.  
+  - Integrated PID-based flight stabilization and a Python-powered web interface.  
+
+  #### **4. Server Migration System**  
+  - Developed an automated DDoS detection and server migration tool using WireGuard (UDP), reverse proxies, and Go-based optimizations.  
+
+  ---
+
+### 📈 **GitHub Stats**
+
+  <p align="center">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anandanmb01&show_icons=true&count_private=true" alt="GitHub Stats"/>
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandanmb01&layout=compact" alt="Top Languages"/>
+  </p>
+  <p align="center">
+      <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=anandanmb01" alt="GitHub Streak Stats" />
+      </a>
+  </p>
+---
+  ### 📌 **Pinned Repositories**
+
+  [![Eternity VPN](https://github-readme-stats.vercel.app/api/pin/?username=anandanmb01&repo=eternity_vpn&show_owner=true)](https://github.com/anandanmb01/eternity_vpn)  
+  [![Eternity VPN Windows Client](https://github-readme-stats.vercel.app/api/pin/?username=anandanmb01&repo=eternityvpn_win_client&show_owner=true)](https://github.com/anandanmb01/eternityvpn_win_client)  
+  [![Sudoku Solver](https://github-readme-stats.vercel.app/api/pin/?username=anandanmb01&repo=sudoku-solver&show_owner=true)](https://github.com/anandanmb01/sudoku-solver)  
+
+  ---
+
+  ### 🌐 **Connect With Me**
+  <p>
+  <a href="https://twitter.com/mbanandan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/anandan-mb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/anandan_mb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  </p>
